@@ -14,3 +14,7 @@ HTML code
     </body>
   </html>
 ```
+
+- [X] First task
+- [ ] Recheck first
+- [X] Second task
